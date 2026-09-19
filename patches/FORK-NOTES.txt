@@ -1,0 +1,2 @@
+Florida fork for Jsra1n - triggers the anti-detection frida-server build.
+Non-patch file: the workflow only applies patches/*/*.patch, so this is inert.
